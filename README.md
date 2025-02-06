@@ -67,7 +67,7 @@ pip install git+https://github.com/MaximeJumelle/ALEPython.git@dev#egg=alepython
    - Understanding feature interactions
 
 ## Results and Insights
-(Note: Specific results would be added after running the analysis)
+(Note: Specific results have been provided in the `pdp+ice+ale_plot_interpretation.ipynb` file)
 
 ## Limitations and Considerations
 - The effectiveness of the plots may vary depending on the complexity of the model and the nature of the data
@@ -75,12 +75,7 @@ pip install git+https://github.com/MaximeJumelle/ALEPython.git@dev#egg=alepython
 - The analysis is limited to the features present in the dataset and may not capture all real-world factors influencing user behavior
 
 ## References
-1. SHAP Documentation. [SHAP Text Examples](https://shap.readthedocs.io/en/latest/text_examples.html#question-answering)
-2. Molnar, C. (2019). *Interpretable Machine Learning: A Guide for Making Black Box Models Explainable*. [Online Book](https://christophm.github.io/interpretable-ml-book/)
-3. Hugging Face. [Transformers Documentation](https://huggingface.co/docs/transformers/model_doc/bert)
-4. DataCamp. [Explainable AI Tutorial](https://www.datacamp.com/tutorial/explainable-ai-understanding-and-trusting-machine-learning-models)
-5. Hugging Face. [API Tokens](https://huggingface.co/settings/tokens)
-6. Google. [Gemini AI](https://deepmind.google/technologies/gemini/)
+1. Google. [Gemini AI](https://deepmind.google/technologies/gemini/)
    
 ---
 
